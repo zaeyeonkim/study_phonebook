@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+  margin: 30px;
+}
+.contact-list {
+  margin-top: 10px;
+}
+.contact-num {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+.search-form {
+  margin-top: 31px;
+}
+.contact-item {
+  margin: 20px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #cecece;
+}
